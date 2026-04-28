@@ -1,4 +1,4 @@
 {
-  "stgurl": "wss://stg",
-  "prourl": "wss://pro"
+  "stgurl": "wss://device-socket-staging.kjcpay.org",
+  "prourl": "wss://socket.pay88.tech"
 }
